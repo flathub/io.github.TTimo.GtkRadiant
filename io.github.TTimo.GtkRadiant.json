@@ -131,7 +131,7 @@
         {
           "type": "git",
           "url": "https://github.com/TTimo/GtkRadiant.git",
-          "commit": "0f24e27e6ba706847a3aa0758df6b35ca0850aaf"
+          "commit": "e0c26d1291d9a656772ff366e79fb3eb3bf779a3"
         },
         {
           "type": "svn",
