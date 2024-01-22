@@ -131,7 +131,7 @@
         {
           "type": "git",
           "url": "https://github.com/TTimo/GtkRadiant.git",
-          "commit": "b35cb10c8368c6a25530504e9246cb58d236f928"
+          "commit": "e0c26d1291d9a656772ff366e79fb3eb3bf779a3"
         },
         {
           "type": "svn",
@@ -204,10 +204,6 @@
           "url": "svn://svn.icculus.org/gtkradiant-gamepacks/WolfPack/trunk",
           "revision": "144",
           "dest": "install/installs/WolfPack"
-        },
-        {
-          "type": "patch",
-          "path": "patches/gtkradiant/revert-uintptr.patch"
         },
         {
           "type": "file",
